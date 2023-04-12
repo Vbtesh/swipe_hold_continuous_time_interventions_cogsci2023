@@ -1,1 +1,3 @@
-# swipe_hold_continuous_time_interventions_cogsci2023
+# Swipe and Hold: composing interventions in continuous time causal learning
+
+Submission for CogSci 2023
